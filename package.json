@@ -1,0 +1,22 @@
+{
+  "name": "benchmarks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@loopback/rest": "^1.16.3",
+    "@nestjs/common": "^6.4.1",
+    "@nestjs/core": "^6.4.1",
+    "@nestjs/platform-express": "^6.4.1",
+    "@nestjs/platform-fastify": "^6.4.1",
+    "express": "^4.17.1",
+    "fastify": "^2.6.0",
+    "hyron": "^2.6.10",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^6.5.2"
+  }
+}

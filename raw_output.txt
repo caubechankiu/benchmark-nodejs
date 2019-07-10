@@ -1,0 +1,24 @@
+-----------------------
+raw
+-----------------------
+Running 10s test @ http://localhost:3000
+  8 threads and 1024 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    26.14ms   55.91ms 933.17ms   98.39%
+    Req/Sec     5.42k     1.74k   15.27k    82.11%
+  425385 requests in 10.06s, 45.03MB read
+  Socket errors: connect 85, read 0, write 0, timeout 0
+Requests/sec:  42280.17
+Transfer/sec:      4.48MB
+-----------------------
+raw
+-----------------------
+Running 10s test @ http://localhost:3000
+  8 threads and 1024 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    19.87ms   18.25ms 459.65ms   98.99%
+    Req/Sec     5.89k     1.90k   15.45k    88.95%
+  451240 requests in 10.07s, 47.77MB read
+  Socket errors: connect 85, read 0, write 0, timeout 0
+Requests/sec:  44809.45
+Transfer/sec:      4.74MB
