@@ -4,7 +4,7 @@ Benchmark All
 ``` bash
 ./run_all.sh
 ```
-See result at all_output.txx
+See result at all_output.txt
 
 Benchmark raw
 ``` bash
