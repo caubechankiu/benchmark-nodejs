@@ -2,7 +2,7 @@
 
 : > all_output.txt
 
-lib=(express fastify nest nest-fastify hyron loopback)
+lib=(express fastify nest nest-fastify hyron loopback restify)
 for item in ${lib[*]}
 do
   echo '-----------------------' >> all_output.txt
