@@ -41,3 +41,7 @@ Benchmark loopback
 ./run.sh loopback
 ```
 
+Benchmark restify
+``` bash
+./run.sh restify
+```
